@@ -1,4 +1,4 @@
-name: APK bauen
+.github/workflows/android.ymlname: APK bauen
 on:
   push:
     branches: [ "main" ]
